@@ -16,6 +16,7 @@
 		04932C671A70D90F000C057B /* CardAngleAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04932C661A70D90F000C057B /* CardAngleAnimationTests.m */; };
 		04932C721A70D992000C057B /* CardAngleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04932C711A70D992000C057B /* CardAngleView.m */; };
 		04932C741A70EDB6000C057B /* nux-badge-success@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04932C731A70EDB6000C057B /* nux-badge-success@2x.png */; };
+		04932C781A711F3A000C057B /* test.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04932C771A711F3A000C057B /* test.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		04932C701A70D992000C057B /* CardAngleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardAngleView.h; sourceTree = "<group>"; };
 		04932C711A70D992000C057B /* CardAngleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardAngleView.m; sourceTree = "<group>"; };
 		04932C731A70EDB6000C057B /* nux-badge-success@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nux-badge-success@2x.png"; sourceTree = "<group>"; };
+		04932C771A711F3A000C057B /* test.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		04932C4A1A70D90E000C057B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				04932C771A711F3A000C057B /* test.gif */,
 				04932C731A70EDB6000C057B /* nux-badge-success@2x.png */,
 				04932C4B1A70D90E000C057B /* Info.plist */,
 				04932C4C1A70D90E000C057B /* main.m */,
@@ -209,6 +212,7 @@
 			files = (
 				04932C561A70D90F000C057B /* Main.storyboard in Resources */,
 				04932C5B1A70D90F000C057B /* LaunchScreen.xib in Resources */,
+				04932C781A711F3A000C057B /* test.gif in Resources */,
 				04932C741A70EDB6000C057B /* nux-badge-success@2x.png in Resources */,
 				04932C581A70D90F000C057B /* Images.xcassets in Resources */,
 			);
