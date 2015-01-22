@@ -3,5 +3,5 @@
 
 效果如下
 
-![image](https://raw.githubusercontent.com/wangzidaren/CardAngleAnimation/newBranch/mask.gif)
+![image](https://raw.githubusercontent.com/wangzidaren/CardAngleAnimation/newBranch/show.png)
 
